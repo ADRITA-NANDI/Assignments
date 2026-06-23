@@ -1,6 +1,6 @@
 void main() {
   String studentName = "Adrita Nandi";
-  int marks = 85;
+  int marks = 65;
 
   String grade;
 
@@ -13,7 +13,6 @@ void main() {
   } else {
     grade = 'F';
   }
-
 
   print("Student Report\n");
   print("Name: $studentName");
